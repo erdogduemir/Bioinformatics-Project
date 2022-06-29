@@ -11,6 +11,8 @@ This project aims to design a good experimental setup for a classification probl
 
 The project should be run in order from 1 to 4.
 
+Since the epigenomes folder created by the code is too big to upload to GitHub, it can be acces using [this] (https://drive.google.com/drive/folders/1H5HEQRTwYOrFAwnBe-81G8zjFOUuPro8?usp=sharing) link.
+
 ## Tests
 
 ```bash 
